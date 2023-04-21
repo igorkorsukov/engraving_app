@@ -1,0 +1,3 @@
+[submodule "musescore/MuseScore"]
+	path = musescore/MuseScore
+	url = git@github.com:musescore/MuseScore.git
